@@ -1,9 +1,9 @@
 ---
-name: Chinese Context & Language Enforcement
+name: language-style-guide
 description: 强制在所有交互、代码注释和文档生成中严格使用中文，并遵循高级技术写作规范。Enforces strict adherence to Chinese language in all interactions, code comments, and documentation with high-quality technical writing standards.
 ---
 
-# Chinese Context & Language Enforcement Skill
+# language-style-guide Skill
 
 此 Skill 为 **语言无关 (Language Agnostic)** 的通用规范，适用于所有编程语言（如 JavaScript, Python, Go, Java, Rust, C++ 等）及各类配置文件。无论使用何种技术栈，均需遵循本规范以确保中文技术社区的最佳实践。
 

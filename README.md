@@ -20,7 +20,7 @@ my-skills/
 
 Currently, the following skills are maintained in this repository:
 
-### 1. Chinese Context & Language Enforcement
+### 1. language-style-guide
 - **Directory**: `skills/language-style-guide`
 - **Description**: Enforces strict adherence to **Simplified Chinese (简体中文)** for all interactions, code comments, and documentation.
 - **Key Features**:
