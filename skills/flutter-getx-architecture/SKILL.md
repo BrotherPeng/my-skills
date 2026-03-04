@@ -1,5 +1,5 @@
 ---
-name: "Flutter GetX Architecture & Project Structure"
+name: "flutter-getx-architecture"
 description: "Guidelines and rules for the GetX-based feature-first folder structure, module composition (View, Controller, Binding, Widgets), component splitting boundaries, get_cli route/state conventions, and strategy for GetX Fat Controller anti-bloat/decomposition (> 300 lines)."
 version: "2.1.0"
 ---
